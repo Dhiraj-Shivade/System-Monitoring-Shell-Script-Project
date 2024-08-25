@@ -48,14 +48,21 @@ For example, on Debian-based systems like ubuntu which is referred for the entir
 4. The script can be executed with various command-line options to display specific information or the entire dashboard.
    The available options are:
 
-    -cpu : Display the top 10 CPU-consuming applications.
-    -network : Display network monitoring information.
-    -disk : Display disk usage information.
-    -load : Display current system load and CPU usage breakdown.
-    -memory : Display memory and swap usage.
-    -process : Display process monitoring information.
-    -service : Display the status of key services.
-    -all : Display the complete dashboard with all information.
+  *  -cpu : Display the top 10 CPU-consuming applications.
+    
+  *  -network : Display network monitoring information.
+    
+  *  -disk : Display disk usage information.
+    
+  *  -load : Display current system load and CPU usage breakdown.
+    
+  *  -memory : Display memory and swap usage.
+    
+  *  -process : Display process monitoring information.
+    
+  *  -service : Display the status of key services.
+    
+  *  -all : Display the complete dashboard with all information.
 
 For example:
 
